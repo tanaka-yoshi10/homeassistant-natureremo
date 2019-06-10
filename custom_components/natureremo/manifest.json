@@ -1,0 +1,8 @@
+{
+  "domain": "your_domain_name",
+  "name": "Your Integration",
+  "documentation": "https://www.example.com",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": ["pyture-remo==0.2"]
+}
